@@ -1,5 +1,6 @@
 需更新主板BIOS到最新版，关闭cfg lock，关闭fast boot，开启Above 4G，关闭CMS等！
-
+|     |    |
+|---|---|
 | CPU	| i5-13400F |
 | 主板 |	铭瑄B760M 终结者 D4 |
 | 内存 |	玖合 DDR4 3200 |

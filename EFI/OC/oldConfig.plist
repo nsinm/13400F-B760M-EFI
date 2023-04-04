@@ -463,24 +463,6 @@
                     <key>Arch</key>
                     <string>Any</string>
                     <key>BundlePath</key>
-                    <string>WhateverGreen.kext</string>
-                    <key>Comment</key>
-                    <string>V1.6.4 | WhateverGreen.kext</string>
-                    <key>Enabled</key>
-                    <true/>
-                    <key>ExecutablePath</key>
-                    <string>Contents/MacOS/WhateverGreen</string>
-                    <key>MaxKernel</key>
-                    <string></string>
-                    <key>MinKernel</key>
-                    <string></string>
-                    <key>PlistPath</key>
-                    <string>Contents/Info.plist</string>
-                </dict>
-                <dict>
-                    <key>Arch</key>
-                    <string>Any</string>
-                    <key>BundlePath</key>
                     <string>CPUFriend.kext</string>
                     <key>Comment</key>
                     <string>V1.2.6</string>

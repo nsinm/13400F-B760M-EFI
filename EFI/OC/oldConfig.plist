@@ -339,7 +339,7 @@
                     <key>BundlePath</key>
                     <string>Lilu.kext</string>
                     <key>Comment</key>
-                    <string>V1.6.4 | Lilu.kext</string>
+                    <string>V1.6.5 | Lilu.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -375,7 +375,7 @@
                     <key>BundlePath</key>
                     <string>AppleALC.kext</string>
                     <key>Comment</key>
-                    <string>V1.8.0</string>
+                    <string>V1.8.2</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -393,7 +393,7 @@
                     <key>BundlePath</key>
                     <string>AirportBrcmFixup.kext</string>
                     <key>Comment</key>
-                    <string>V2.1.6 | AirportBrcmFixup.kext</string>
+                    <string>V2.1.7 | AirportBrcmFixup.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -429,7 +429,7 @@
                     <key>BundlePath</key>
                     <string>RestrictEvents.kext</string>
                     <key>Comment</key>
-                    <string>V1.0.9 | RestrictEvents.kext</string>
+                    <string>V1.1.1 | RestrictEvents.kext</string>
                     <key>Enabled</key>
                     <true/>
                     <key>ExecutablePath</key>
@@ -930,6 +930,8 @@
                 <true/>
                 <key>DisableIoMapper</key>
                 <false/>
+                <key>DisableIoMapperMapping</key>
+                <false/>
                 <key>DisableLinkeditJettison</key>
                 <true/>
                 <key>DisableRtcChecksum</key>
@@ -1404,10 +1406,14 @@
                 <false/>
                 <key>ForceResolution</key>
                 <false/>
+                <key>GopBurstMode</key>
+                <false/>
                 <key>GopPassThrough</key>
                 <string>Disabled</string>
                 <key>IgnoreTextInGraphics</key>
                 <false/>
+                <key>InitialMode</key>
+                <string></string>
                 <key>ProvideConsoleGop</key>
                 <true/>
                 <key>ReconnectGraphicsOnConnect</key>
